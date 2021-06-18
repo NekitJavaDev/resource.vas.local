@@ -1,7 +1,7 @@
 /node_modules/
 **/examples
 /public
-/storage/*.key
+/storage
 /vendor
 .env
 .phpunit.result.cache
@@ -11,3 +11,5 @@ npm-debug.log
 yarn-error.log
 .vscode
 *.lock
+bootstrap/cache/
+/database
