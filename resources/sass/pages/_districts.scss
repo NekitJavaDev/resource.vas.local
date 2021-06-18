@@ -1,0 +1,26 @@
+/* District */
+
+.widget-user-header {
+    filter: saturate(0.3);
+    color: white;
+    background-color: #3c8dbc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.widget-user-header:hover {
+    color: #ccc;
+    filter: saturate(1);
+    transition: filter 0.3s;
+}
+
+.widget-user .widget-user-header {
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.unit {
+    display: none;
+}

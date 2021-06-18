@@ -1,0 +1,25 @@
+// Additional variables
+@import "./variables";
+@import "./style.css";
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "./bootstrapV5";
+// Font-awesome
+@import "~font-awesome/scss/font-awesome.scss";
+
+// AdminLTE
+@import './adminLTE';
+@import './skin-blue';
+
+// Pages
+@import './pages/home';
+@import './pages/academy';
+@import './pages/building';
+@import './pages/city';
+@import './pages/device';
+@import './pages/districts';
+@import './pages/mercury';
+@import './pages/training';
+@import './pages/observing';
+@import './pages/profile';
+@import './pages/aside';

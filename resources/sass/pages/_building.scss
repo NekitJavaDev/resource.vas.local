@@ -1,0 +1,87 @@
+/* Building */
+
+.widget-user .box-footer {
+    padding-top: 0;
+}
+
+@media (min-width: 768px) {
+    .buildingInfo .dl-horizontal dt {
+        width: 305px;
+    }
+    .buildingInfo .dl-horizontal dd {
+        margin-left: 315px;
+    }
+    .buildingInfo .image {
+        text-align: right;
+    }
+    .buildingInfo img {
+        height: 170px;
+    }
+}
+
+.building-page-building-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.total-comsumption {
+    &-title {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+}
+
+.grouped-list {
+        &-item {
+            display: flex;
+            
+            &-title {
+                flex: 1.26 1 0;
+                justify-content: flex-end;
+                text-align: end;
+                font-weight: bold;
+            }
+
+            &-value {
+                flex: 1 1 0;
+                margin-left: 5px;
+            }
+        }
+    }
+
+.building-page {
+    & .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    & .col-xs-12 {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .btn-group {
+        display: flex; 
+
+        & > .btn-check {
+            flex: 1 1 0; 
+        }
+    }
+
+    .meters {
+        display: flex;
+    }
+
+    .meter_item {
+        flex: 1 1 1;
+        flex-basis: 33.3%;
+        padding-top: 10px;
+        padding-right: 10px;
+        
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+}

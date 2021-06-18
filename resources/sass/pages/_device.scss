@@ -1,0 +1,21 @@
+/* Electricity, Water, Heat */
+
+.consumption-hightlights .info-box {
+    height: 90px;
+}
+
+.consumption-hightlights .info-box-number {
+    font-size: 30px;
+}
+
+@media (min-width: 768px) {
+    .consumption .dl-horizontal dt {
+        width: 270px;
+    }
+    .consumption .dl-horizontal dd {
+        margin-left: 280px;
+    }
+    #getFreshData {
+        margin-top: 15px;
+    }
+}

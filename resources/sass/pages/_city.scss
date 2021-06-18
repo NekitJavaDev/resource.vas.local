@@ -1,0 +1,32 @@
+/* City */
+
+.widget-user .box-footer {
+    padding-top: 0;
+}
+
+.report .box-header {
+    background: #dd4b3978;
+}
+
+@media (min-width: 768px) {
+    .panel-photo img {
+        width: 100%;
+    }
+    .panel-photo {
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: saturate(0.3);
+        min-height: 200px;
+        transition: 0.3s;
+    }
+    .panel-photo:hover {
+        transition: 0.3s;
+    }
+    .buildingColumn:hover .panel-photo {
+        filter: saturate(1);
+        transition: 0.3s;
+        transform: scale(1.05);
+        box-shadow: #222d32 0 0 5px 0px;
+    }
+}

@@ -1,0 +1,33 @@
+/* Training */
+
+#mineField td {
+    border-collapse: collapse;
+    width: 30px;
+    height: 30px;
+    background: #eee;
+    border: 5px solid #999;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 13px;
+    transition: 1s;
+}
+
+#mineField td.hasMine {
+    /*background: #ff9999;*/
+}
+
+#mineField td.explode {
+    background: #ff9999;
+}
+
+#mineField td.clear {
+    background: #99ff99;
+}
+
+#mineField td.flagged {
+    background: yellow;
+}
+
+#mineField td.active {
+    background: #9999ff;
+}
