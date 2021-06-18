@@ -40,5 +40,17 @@
 * Меркурий 230/234 ART - Трёхфазный многотарфиный счётчик электрической энергии
 
 <p align="center">
-  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%90%D0%A1%D0%9A%D0%A3%D0%9F%D0%AD_%D0%A0%D0%95%D0%A1%D0%A3%D0%A0%D0%A1.gif"/>
+  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA3.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA4.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/NekitJavaDev/resource.vas.local/blob/master/img/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA7.png"/>
 </p>
